@@ -1,5 +1,4 @@
-[English](./README.md) | [简体中文](./README-CN.md)
-
+English | [简体中文](./README-CN.md)
 # vue-tauri-display
 
 A cross-platform desktop camera application built with Tauri + Vue 3, supporting real-time preview, screenshot capture, and more.
